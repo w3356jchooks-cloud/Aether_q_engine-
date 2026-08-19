@@ -1,5 +1,7 @@
 # Aether_q_engine-
 ![Alt Text](logo.png)
+
+
 ​1. INTRODUCTION AND OVERVIEW
 
 ​Modern software development increasingly demands intelligent, adaptive decision-making agents capable of learning directly from runtime feedback, background automation tasks, or interactive systems. While traditional machine learning libraries often introduce heavy dependencies, complex configuration files, or massive computational requirements, lightweight reinforcement learning packages provide an alternative. The AETHER_Q library (published on PyPI as AETHER_Q_ENGINE) is engineered specifically for high-frequency runtime loops, multi-agent systems, and real-time execution environments.
